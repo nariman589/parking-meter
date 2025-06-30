@@ -1,0 +1,18 @@
+{
+    "coinAcceptor": {
+      "port": "COM3"
+    },
+    "billAcceptor": {
+      "port": "COM4"
+    },
+    "cardReader": {
+      "port": "COM9"
+    },
+    "parkomat": {
+      "Parkomat": "parkomat",
+      "PARKOMAT_URL":"http://localhost:8080",
+      "objectName": "Паркинг 'Тест111'",
+      "address": "г.Алматы, Байзакова 280",
+      "companyName": "ТОО «Компания «Parqour Test»"
+    }
+  }
